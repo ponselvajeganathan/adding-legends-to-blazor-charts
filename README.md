@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to add and customize legends in a Syncfusion Blazor Chart using the Syncfusion Chart component. The project shows how chart legends can be displayed, positioned, aligned, and customized to improve chart readability and user interaction. It also illustrates legend-driven series highlighting and chart animation behavior, helping developers create more informative and interactive data visualizations in Blazor applications.
+This sample demonstrates how to add and customize legends in a Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) using the Syncfusion Chart component. The project shows how chart legends can be displayed, positioned, aligned, and customized to improve chart readability and user interaction. It also illustrates legend-driven series highlighting and chart animation behavior, helping developers create more informative and interactive data visualizations in Blazor applications.
 
 ## Key Features
 
